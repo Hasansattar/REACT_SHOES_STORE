@@ -9,7 +9,7 @@ export class DataProvider extends Component {
             {
                 "_id": "1",
                 "title": "Nike Shoes 01",
-                "src": "https://www.upsieutoc.com/images/2020/06/27/img1.jpg",
+                "src": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d706b6dd-32a7-4ed9-81c9-c0808624807c/dunk-low-retro-mens-shoes-9k2Xt6.png",
                 "description": "Leather and synthetic",
                 "content": "The Nike Blazer Mid '77 Vintage harnesses the old-school look of Nike Basketball with a vintage midsole finish, making it look like you've been saving them for years.",
                 "price": 23,
@@ -19,7 +19,7 @@ export class DataProvider extends Component {
             {
                 "_id": "2",
                 "title": "Nike Shoes 02",
-                "src": "https://www.upsieutoc.com/images/2020/06/27/img2.jpg",
+                "src": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/774e0af9-109b-46a6-83c1-1c6c85d63609/tech-hera-mens-shoes-kd77nb.png",
                 "description": "Leather and synthetic",
                 "content": "The Nike Blazer Mid '77 Vintage harnesses the old-school look of Nike Basketball with a vintage midsole finish, making it look like you've been saving them for years.",
                 "price": 19,
@@ -29,7 +29,7 @@ export class DataProvider extends Component {
             {
                 "_id": "3",
                 "title": "Nike Shoes 03",
-                "src": "https://www.upsieutoc.com/images/2020/06/27/img3.jpg",
+                "src": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ce901ca6-5cb0-45f0-980e-3d80b8ced632/free-metcon-5-womens-training-shoes-h4Zl5h.png",
                 "description": "Leather and synthetic",
                 "content": "The Nike Blazer Mid '77 Vintage harnesses the old-school look of Nike Basketball with a vintage midsole finish, making it look like you've been saving them for years.",
                 "price": 50,
@@ -39,7 +39,7 @@ export class DataProvider extends Component {
             {
                 "_id": "4",
                 "title": "Nike Shoes 04",
-                "src": "https://www.upsieutoc.com/images/2020/06/27/img4.jpg",
+                "src": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/31ff59e2-89d0-4a83-839a-656618674782/air-jordan-1-mid-mens-shoes-tXSJ73.png",
                 "description": "Leather and synthetic",
                 "content": "The Nike Blazer Mid '77 Vintage harnesses the old-school look of Nike Basketball with a vintage midsole finish, making it look like you've been saving them for years.",
                 "price": 15,
@@ -49,7 +49,7 @@ export class DataProvider extends Component {
             {
                 "_id": "5",
                 "title": "Nike Shoes 05",
-                "src": "https://www.upsieutoc.com/images/2020/06/27/img5.jpg",
+                "src": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/732b931c-f0d5-4726-ae9a-835a11753aa7/dunk-low-lx-womens-shoes-kPGHX0.png",
                 "description": "Leather and synthetic",
                 "content": "The Nike Blazer Mid '77 Vintage harnesses the old-school look of Nike Basketball with a vintage midsole finish, making it look like you've been saving them for years.",
                 "price": 10,
@@ -59,7 +59,7 @@ export class DataProvider extends Component {
             {
                 "_id": "6",
                 "title": "Nike Shoes 06",
-                "src": "https://www.upsieutoc.com/images/2020/06/27/img6.jpg",
+                "src": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b4c65d3d-bdf9-42a6-adc7-961e7be19694/dunk-low-womens-shoes-kPGHX0.png",
                 "description": "Leather and synthetic",
                 "content": "The Nike Blazer Mid '77 Vintage harnesses the old-school look of Nike Basketball with a vintage midsole finish, making it look like you've been saving them for years.",
                 "price": 17,
